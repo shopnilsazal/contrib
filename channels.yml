@@ -1,6 +1,10 @@
 ---
 channels: 
 
+  - name: AppNexus
+    link: https://www.youtube.com/channel/UCWM5bJjuuwGJgZanzY6eG6A
+    channelId: UCC41Wkvj5FyelFirGe4Q8uA
+
   - name: InfoQ
     link: https://www.youtube.com/user/MarakanaTechTV
     channelId: UCkQX1tChV7Z7l1LFF4L9j_g
@@ -36,6 +40,10 @@ channels:
   - name: Devoxx
     link: https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg
     channelId: UCCBVCTuk6uJrN3iFV_3vurg
+
+  - name: Devoxx FR
+    link: https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A
+    channelId: UCsVPQfo5RZErDL41LoWvk0A
 
   - name: Voxxed Days Luxembourg
     link: https://www.youtube.com/channel/UCPLFcPPtjRCVVa4yxm-EEgA
@@ -73,8 +81,8 @@ channels:
     link: https://www.youtube.com/user/ClojureTV/videos
     channelId: UCaLlzGqiPE2QRj6sSOawJRg
 
-  - name: Confreaks
-    link: https://www.youtube.com/user/Confreaks
+  - name: Google Developers
+    link: https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw
     channelId: UC_x5XG1OV2P6uZZ5FSM9Ttw
 
   - name: Agile Serbia
@@ -109,7 +117,7 @@ channels:
     link: https://www.youtube.com/channel/UC0eV4MhnmCd-48XdDhzf6Hg
     channelId: UC0eV4MhnmCd-48XdDhzf6Hg
     
-  - name: O'Ŗeilly
+  - name: "O'Reilly"
     link: https://www.youtube.com/user/OreillyMedia
     channelId: UC3BGlwmI-Vk6PWyMt15dKGw
     
@@ -193,6 +201,22 @@ channels:
     link: https://www.youtube.com/channel/UCb-D560WkMEPE7dwNta_nqA
     channelId: UCb-D560WkMEPE7dwNta_nqA
   
+  - name: elm-conf
+    link: https://www.youtube.com/channel/UCOpGiN9AkczVjlpGDaBwQrQ
+    channelID: UCOpGiN9AkczVjlpGDaBwQrQ
+   
+  - name: Gopher Academy
+    link: https://www.youtube.com/channel/UCx9QVEApa5BKLw9r8cnOFEA
+    channelId: UCx9QVEApa5BKLw9r8cnOFEA
+    
+  - name: Golang UK Conference
+    link: https://www.youtube.com/channel/UC9ZNrGdT2aAdrNbX78lbNlQ
+    channelId: UC9ZNrGdT2aAdrNbX78lbNlQ
+    
+  - name: GopherConIndia
+    link: https://www.youtube.com/channel/UCa-OZB5VIMcdzgrXRM2U0Ww
+    channelId: UCa-OZB5VIMcdzgrXRM2U0Ww
+
   - name: PyCon UK
     link: https://www.youtube.com/channel/UChA9XP_feY1-1oSy2L7acog
     channelId: UChA9XP_feY1-1oSy2L7acog
@@ -221,3 +245,163 @@ channels:
     link: https://www.youtube.com/channel/UCTZ3O2cZo1b4JSwvhgBnAbw
     channelId: UCTZ3O2cZo1b4JSwvhgBnAbw
     
+
+  - name: React Kyiv
+    link: https://www.youtube.com/channel/UCsujMNYN0c8ehIPj4oA8_zg
+    channelId: UCsujMNYN0c8ehIPj4oA8_zg
+
+  - name: Uber Engineering
+    link: https://www.youtube.com/channel/UCQlvjgieHGgkpP_9GiVyTGw
+    channelId: UCQlvjgieHGgkpP_9GiVyTGw
+
+  - name: NG-Poland.pl
+    link: https://www.youtube.com/channel/UC55UiwMH_7PVcKrkriXSHuw
+    channelId: UC55UiwMH_7PVcKrkriXSHuw
+    
+  - name: GeeCON
+    link: https://www.youtube.com/channel/UCVnJYdr91EZW8YvtMrxB1bg
+    channelId: UCVnJYdr91EZW8YvtMrxB1bg
+
+  - name: Devoxx Poland
+    link: https://www.youtube.com/channel/UCAu3kLPVR1KScr5BReBJTvg
+    channelId: UCAu3kLPVR1KScr5BReBJTvg
+
+  - name: Sphere.it
+    link: https://www.youtube.com/channel/UC2D5QYMoclw4fz8YWFgC4sg
+    channelId: UC2D5QYMoclw4fz8YWFgC4sg
+
+  - name: ZEIT
+    link: https://www.youtube.com/channel/UCLq8gNoee7oXM7MvTdjyQvA
+    channelId: UCLq8gNoee7oXM7MvTdjyQvA
+
+  - name: Human Talks Paris
+    link: https://www.youtube.com/channel/UCKFAwlgWiAB4vUpgnS63qog
+    chanelId: UCKFAwlgWiAB4vUpgnS63qog
+
+  - name: Android Makers
+    link: https://www.youtube.com/channel/UCkatLlah5weIpN23LqMgdTg
+    channelId: UCkatLlah5weIpN23LqMgdTg
+
+  - name: CodeMobile UK
+    link: https://www.youtube.com/channel/UCCc-KoF0DT3-t2lrhAgZWAA
+    channelId: UCCc-KoF0DT3-t2lrhAgZWAA
+
+  - name: DroidCon Berlin
+    link: https://www.youtube.com/channel/UCF4O2pQ8vBV8YmSAWb5QRPw
+    channelId: UCF4O2pQ8vBV8YmSAWb5QRPw
+
+  - name: DroidCon Italy
+    link: https://www.youtube.com/channel/UC9f8652addezs8ZUuKPB4Ow
+    channelId: UC9f8652addezs8ZUuKPB4Ow
+    
+  - name: DeltaV Conference
+    link: https://www.youtube.com/channel/UCL1qMvsgfDBu2WjQxzypmxA
+    channelId: UCL1qMvsgfDBu2WjQxzypmxA
+
+  - name: InfoQ Brazil
+    link: https://www.youtube.com/c/InfoQBrasil
+    channelId: UCkQX1tChV7Z7l1LFF4L9j_g
+  
+  - name: Microsoft Developer
+    link: https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g
+    channelId: UCsMica-v34Irf9KVTh6xx-g
+    
+  - name: .NET Fringe Conference
+    link: https://www.youtube.com/channel/UCIz73jo7KPqVTssbUmiIfXg
+    channelId: UCIz73jo7KPqVTssbUmiIfXg 
+
+  - name: Confreaks
+    link: https://www.youtube.com/channel/UCWnPjmqvljcafA0z2U1fwKQ
+    channelId: UCWnPjmqvljcafA0z2U1fwKQ
+
+  - name: Curry On!
+    link: https://www.youtube.com/channel/UC-WICcSW1k3HsScuXxDrp0w
+    channelId: UC-WICcSW1k3HsScuXxDrp0w
+
+  - name: DEFCONConference
+    link: https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw
+    channelId: UC6Om9kAkl32dWlDSNlDS9Iw
+
+  - name: EuroPython Conference
+    link: https://www.youtube.com/channel/UC98CzaYuFNAA_gOINFB0e4Q
+    channelId: UC98CzaYuFNAA_gOINFB0e4Q
+
+  - name: FOSDEM
+    link: https://www.youtube.com/channel/UC9NuJImUbaSNKiwF2bdSfAw
+    channelId: UC9NuJImUbaSNKiwF2bdSfAw
+
+  - name: GDC
+    link: https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ
+    channelId: UC0JB7TSe49lg56u6qH8y_MQ
+
+  - name: Hack In The Box
+    link: https://www.youtube.com/channel/UC0BJVNTIEbG8CLG-xVVWJnA
+    channelId: UC0BJVNTIEbG8CLG-xVVWJnA
+
+  - name: OWASP
+    link: https://www.youtube.com/channel/UCe8j61ABYDuPTdtjItD2veA
+    channelId: UCe8j61ABYDuPTdtjItD2veA
+
+  - name: USENIX
+    link: https://www.youtube.com/channel/UC4-GrpQBx6WCGwmwozP744Q
+    channelId: UC4-GrpQBx6WCGwmwozP744Q
+
+  - name: CNCF
+    link: https://www.youtube.com/channel/UCvqbFHwN-nwalWPjPUKpvTA
+    channelId: UCvqbFHwN-nwalWPjPUKpvTA
+
+  - name: AFUP Hauts de France
+    link: https://www.youtube.com/channel/UCkMGtNcB-VeqMlQ9p2JMIKg
+    channelId: UCkMGtNcB-VeqMlQ9p2JMIKg
+
+  - name: AFUP Aix / Marseille
+    link: https://www.youtube.com/channel/UC77cQ1izl155u6Y8daMZYiA
+    channelId: UC77cQ1izl155u6Y8daMZYiA
+
+  - name: AFUP Rennes
+    link: https://www.youtube.com/channel/UCv1VGfqKhygjTOZkdVUWfpQ
+    channelId: UCv1VGfqKhygjTOZkdVUWfpQ
+    
+  - name: Fun Fun Function
+    link: https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q
+    channelId: UCO1cgjhGzsSYb1rsB4bFe4Q
+    
+  - name: DevTipsForDesigners
+    link: https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ
+    channelId: UCyIe-61Y8C4_o-zZCtO4ETQ
+
+  - name: bdxio
+    link: https://www.youtube.com/channel/UCA7pEYY0BlgCdpbnjhCDezQ
+    channelId: UCA7pEYY0BlgCdpbnjhCDezQ
+
+  - name: Best of Web
+    link: https://www.youtube.com/channel/UCqU8dtoFv2r0cA795pHvtOw
+    channelId: UCqU8dtoFv2r0cA795pHvtOw
+
+  - name: BlendWebMix
+    link: https://www.youtube.com/channel/UCVA4ZOoyUyLB_LS6flBjhRg
+    channelId: UCVA4ZOoyUyLB_LS6flBjhRg
+
+  - name: BreizhCamp
+    link: https://www.youtube.com/channel/UCVelKVoLQIhwx9C2LWf-CDA
+    channelId: UCVelKVoLQIhwx9C2LWf-CDA
+
+  - name: Capitole du Libre
+    link: https://www.youtube.com/channel/UCceC8Q8hThsWwmhqkjclcZg
+    channelId: UCceC8Q8hThsWwmhqkjclcZg
+
+  - name: Codeurs en Seine
+    link: https://www.youtube.com/channel/UCWujmG5rANxJI0nHbMFs08w
+    channelId: UCWujmG5rANxJI0nHbMFs08w
+
+  - name: GDG France
+    link: https://www.youtube.com/channel/UCx83f-KzDd3o1QK2AdJIftg
+    channelId: UCx83f-KzDd3o1QK2AdJIftg
+
+  - name: Paris JUG
+    link: https://www.youtube.com/channel/UCPNEu33xtYpKjQKcn9E5m0Q
+    channelId: UCPNEu33xtYpKjQKcn9E5m0Q
+
+  - name: Breakpoint 2018
+    link: https://www.youtube.com/playlist?list=PL4j2whXlgFj6EtmOZ_DMw_SP_zKInGm90
+    playlistId: PL4j2whXlgFj6EtmOZ_DMw_SP_zKInGm90
